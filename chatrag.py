@@ -233,3 +233,7 @@ if user_input:
         bot_reply = st.write_stream(token_generator())
 
     active_messages().append({"role": "ai", "content": bot_reply})
+
+
+
+    # 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
